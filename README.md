@@ -1,7 +1,8 @@
-#About Me✌️:
-👋 Hello, I'm Sai Sanjana S!<br> 🪼 I'm currently exploring Data Analytics, Data Science, and Machine Learning.\<br>🐚 I'm continuously learning new technologies and building projects to strengthen my technical skills.\<br>🎬 Fun fact: I love watching thriller, crime, and investigation-based movies!I’m currently working on<br>
+#  About Me ✌️:
+<br>👋 Hello, I'm Sai Sanjana S!<br>🪼 I'm currently exploring Data Analytics, Data Science, and Machine Learning.<br>🌱 I'm continuously learning new technologies and building projects to strengthen my technical skills.<br>🎬 Fun fact: I love watching thriller, crime, and investigation-based movies!
 
 
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-sanjana-s24) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saisanjanas24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saisanjanas24@gmail.com) 
 
 # 💻 Tech Stack:
@@ -14,17 +15,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saisanjanas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saisanjanas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+---
+[![](https://komarev.com/ghpvc/?username=saisanjanas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saisanjanas/saisanjanas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saisanjanas/saisanjanas/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/saisanjanas/saisanjanas/output/github-snake.svg" />
-</picture>
