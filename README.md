@@ -1,4 +1,4 @@
-#  About Me ✌️:
+#  About Me✌️:
 <br>👋 Hello, I'm Sai Sanjana S!<br>🪼 I'm currently exploring Data Analytics, Data Science, and Machine Learning.<br>🌱 I'm continuously learning new technologies and building projects to strengthen my technical skills.<br>🎬 Fun fact: I love watching thriller, crime, and investigation-based movies!
 
 
