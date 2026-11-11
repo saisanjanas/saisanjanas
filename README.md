@@ -1,5 +1,9 @@
-#  👋 Hello, I'm Sai Sanjana S!:
-🪼 I'm currently exploring Data Analytics, Data Science, and Machine Learning.<br>🌱 I'm continuously learning new technologies and building projects to strengthen my technical skills.<br>🎬 Fun fact: I love watching thriller, crime, and investigation-based movies!
+<p align="center">
+  <img src="./assets/header.gif" width="100%" alt="Sai Sanjana Banner"/>
+</p>
+# About Me✌️:
+👋 Hello, I'm Sai Sanjana S!<br><br>I'm a third-year Computer Science Engineering student passionate about **Data Analytics, Data Science, and Machine Learning**.<br><br>Currently exploring new technologies, strengthening my technical skills, and gaining practical experience through hands-on projects.<br><br>I enjoy solving problems, discovering insights from data, and connecting with tech enthusiasts to learn and grow.<br><br>🚀 Learn | Explore | Build | Grow
+>>>>>>> e15be94 (Add aesthetic animated profile banner)
 
 
 ## 🌐 Socials:
