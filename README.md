@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/header.gif" width="700" alt="Sai Sanjana Animated Banner"/>
+  <img src="./assets/header.gif" width="650" alt="Sai Sanjana Banner"/>
 </p>
 
 # About Me✌️:
